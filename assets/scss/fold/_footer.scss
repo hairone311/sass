@@ -1,0 +1,15 @@
+.main-footer {
+  width: 100%;
+  background-color: $color-primary;
+
+  .main-footer-content {
+    width: $width-content;
+    padding: 10px;
+    margin: 0 auto;
+
+    p {
+      text-align: center;
+      color: #FFF;
+    }
+  }
+}
